@@ -13,7 +13,7 @@ export function Form() {
                 </label>
 
                 <label>
-                <input onChange={} value={} name='user' type="text" />
+                <input onChange={} value={} name='' type="text" />
                 </label>
 
                 <label>
